@@ -1,0 +1,14 @@
+$bodyBg: #fafafa;
+$bodyColor: #444444;
+
+// breakpoints based on body font-size 16px
+$mobile: "(min-width: 20.000em)"; // 320px
+$mobile-medium: "(min-width: 30.000em)"; // 480px
+$mobile-large: "(min-width: 37.500em)"; // 600px
+$tablet: "(min-width: 48.000em)"; // 768px
+$tablet-large: "(min-width: 61.000em)"; //990px;
+$pc-small: "(min-width: 64.000em)"; // 1024px
+$pc-large: "(min-width: 78.750em)"; // 1260px
+
+$pc-xlarge: "(min-width: 90.250em)"; // 1444px
+$pc-xxlarge: "(min-width: 125.000em)"; //2000px

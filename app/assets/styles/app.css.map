@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "app.css",
+	"sources": [
+		"../../../source/scss/app.scss",
+		"../../../source/scss/partials/_vars.scss",
+		"../../../source/scss/partials/_mixins.scss",
+		"../../../source/scss/partials/_ui.scss"
+	],
+	"mappings": "AGAA,AAAA,IAAI,AAAC,CACD,UAAU,CFDL,OAAO,CEEZ,KAAK,CFDG,IAAO,CEEf,QAAQ,CAAE,MAAO,CACjB,SAAS,CAAE,GAAI,CAClB",
+	"names": []
+}

@@ -1,0 +1,1 @@
+define(["./global"],function(a){"use strict";function b(a){return a&&a.__esModule?a:{"default":a}}var c=b(a);$(function(){({global:c["default"].init()});if(window.location.search.includes("dev=true")){var a={global:c["default"].init()};window.webapp=a}})});
